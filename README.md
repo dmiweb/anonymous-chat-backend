@@ -1,2 +1,2 @@
 # Anonymous Chat Backend
-### Homework backend on Koa
+### Homework backend on Express
